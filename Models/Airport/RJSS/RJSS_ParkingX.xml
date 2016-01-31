@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PropertyList>
+<!--Vehicle list
+Models\Transport\hatchback_red.ac
+Models\Transport\hatchback_silver.ac
+Models\Transport\hummerh2-ba.ac
+Models\Transport\van_blue_dirty.ac
+Models\Transport\van_red.ac
+Models\Transport\van_silver.ac
+Transport\hatchback_black.ac
+Transport\hatchback_blue.ac
+Transport\hatchback_green.ac
+
+-->
+
+<!-- 22 space type -->
+
+<!-- Parking position 1 -->
+	<model>
+	<path>Transport\hatchback_black.ac</path>
+	<offsets>
+		<x-m> 0 </x-m>
+		<y-m> 0 </y-m>
+		<z-m> 0 </z-m>
+		<pitch-deg> 0.00</pitch-deg>
+		<heading-deg>0.0 </heading-deg>
+	</offsets>
+	</model>
+	
+<!-- Parking position 2 -->
+	<model>
+	<path>Models\Transport\van_red.ac</path>
+	<offsets>
+		<x-m> -0.4 </x-m>
+		<y-m> 2.3 </y-m>
+		<z-m> 0 </z-m>
+		<pitch-deg> 0.00</pitch-deg>
+		<heading-deg>0.0 </heading-deg>
+	</offsets>
+	</model>
+	
+<!-- Parking position 3 -->
+	<model>
+	<path>Models\Transport\hummerh2-ba.ac</path>
+	<offsets>
+		<x-m> 0 </x-m>
+		<y-m> 4.6 </y-m>
+		<z-m> 0 </z-m>
+		<pitch-deg> 0.00</pitch-deg>
+		<heading-deg>90.0 </heading-deg>
+	</offsets>
+	</model>
+
+<!-- Parking position 4 -->
+	<model>
+	<path>Transport\hatchback_green.ac</path>
+	<offsets>
+		<x-m> 0 </x-m>
+		<y-m> 6.9 </y-m>
+		<z-m> 0 </z-m>
+		<pitch-deg> 0.00</pitch-deg>
+		<heading-deg>0.0 </heading-deg>
+	</offsets>
+	</model>	
+
+<!-- Parking position 5 -->
+	<model>
+	<path>Transport\hatchback_blue.ac</path>
+	<offsets>
+		<x-m> 0 </x-m>
+		<y-m> 9.2 </y-m>
+		<z-m> 0 </z-m>
+		<pitch-deg> 0.00</pitch-deg>
+		<heading-deg>0.0 </heading-deg>
+	</offsets>
+	</model>
+
+<!-- Parking position 6 -->
+	<model>
+	<path>Models\Transport\hatchback_silver.ac</path>
+	<offsets>
+		<x-m> 0 </x-m>
+		<y-m> 11.5 </y-m>
+		<z-m> 0 </z-m>
+		<pitch-deg> 0.00</pitch-deg>
+		<heading-deg>0.0 </heading-deg>
+	</offsets>
+	</model>	
+
+<!-- Parking position 7 -->
+	<model>
+	<path>Transport\hatchback_black.ac</path>
+	<offsets>
+		<x-m> 0 </x-m>
+		<y-m> 13.8 </y-m>
+		<z-m> 0 </z-m>
+		<pitch-deg> 0.00</pitch-deg>
+		<heading-deg>0.0 </heading-deg>
+	</offsets>
+	</model>	
+
+<!-- Parking position 8 -->
+	<model>
+	<path>Transport\hatchback_black.ac</path>
+	<offsets>
+		<x-m> 0 </x-m>
+		<y-m> 16.1 </y-m>
+		<z-m> 0 </z-m>
+		<pitch-deg> 0.00</pitch-deg>
+		<heading-deg>0.0 </heading-deg>
+	</offsets>
+	</model>	
+
+<!-- Parking position 9 -->
+	<model>
+	<path>Transport\hatchback_black.ac</path>
+	<offsets>
+		<x-m> 0 </x-m>
+		<y-m> 18.4 </y-m>
+		<z-m> 0 </z-m>
+		<pitch-deg> 0.00</pitch-deg>
+		<heading-deg>0.0 </heading-deg>
+	</offsets>
+	</model>
+	
+<!-- Parking position 10 -->
+	<model>
+	<path>Models\Transport\van_silver.ac</path>
+	<offsets>
+		<x-m> -0.4 </x-m>
+		<y-m> 20.7 </y-m>
+		<z-m> 0 </z-m>
+		<pitch-deg> 0.00</pitch-deg>
+		<heading-deg>0.0 </heading-deg>
+	</offsets>
+	</model>	
+	
+	
+<!-- Parking position 11 -->
+	<model>
+	<path>Models\Transport\hatchback_red.ac</path>
+	<offsets>
+		<x-m> 0 </x-m>
+		<y-m> 23.0 </y-m>
+		<z-m> 0 </z-m>
+		<pitch-deg> 0.00</pitch-deg>
+		<heading-deg>0.0 </heading-deg>
+	</offsets>
+	</model>
+
+<!-- Parking position 12 -->
+	<model>
+	<path>Models\Transport\hatchback_silver.ac</path>
+	<offsets>
+		<x-m> 5 </x-m>
+		<y-m> 0 </y-m>
+		<z-m> 0 </z-m>
+		<pitch-deg> 0.00</pitch-deg>
+		<heading-deg>180.0 </heading-deg>
+	</offsets>
+	</model>
+<!-- Parking position 13 -->
+	<model>
+	<path>Models\Transport\van_blue_dirty.ac</path>
+	<offsets>
+		<x-m> 5.4 </x-m>
+		<y-m> 2.3 </y-m>
+		<z-m> 0 </z-m>
+		<pitch-deg> 0.00</pitch-deg>
+		<heading-deg>180.0 </heading-deg>
+	</offsets>
+	</model>
+<!-- Parking position 14 -->
+	<model>
+	<path>Transport\hatchback_black.ac</path>
+	<offsets>
+		<x-m> 5 </x-m>
+		<y-m> 4.6 </y-m>
+		<z-m> 0 </z-m>
+		<pitch-deg> 0.00</pitch-deg>
+		<heading-deg>180.0 </heading-deg>
+	</offsets>
+	</model>
+
+<!-- Parking position 15 -->
+	<model>
+	<path>Models\Transport\hummerh2-ba.ac</path>
+	<offsets>
+		<x-m> 5 </x-m>
+		<y-m> 6.9 </y-m>
+		<z-m> 0 </z-m>
+		<pitch-deg> 0.00</pitch-deg>
+		<heading-deg>270.0 </heading-deg>
+	</offsets>
+	</model>	
+
+<!-- Parking position 16 -->
+	<model>
+	<path>Models\Transport\hatchback_silver.ac</path>
+	<offsets>
+		<x-m> 5 </x-m>
+		<y-m> 9.2 </y-m>
+		<z-m> 0 </z-m>
+		<pitch-deg> 0.00</pitch-deg>
+		<heading-deg>180.0 </heading-deg>
+	</offsets>
+	</model>
+
+<!-- Parking position 17 -->
+	<model>
+	<path>Models\Transport\hatchback_silver.ac</path>
+	<offsets>
+		<x-m> 5 </x-m>
+		<y-m> 11.5 </y-m>
+		<z-m> 0 </z-m>
+		<pitch-deg> 0.00</pitch-deg>
+		<heading-deg>180.0 </heading-deg>
+	</offsets>
+	</model>	
+
+<!-- Parking position 18 -->
+	<model>
+	<path>Transport\hatchback_black.ac</path>
+	<offsets>
+		<x-m> 5 </x-m>
+		<y-m> 13.8 </y-m>
+		<z-m> 0 </z-m>
+		<pitch-deg> 0.00</pitch-deg>
+		<heading-deg>180.0 </heading-deg>
+	</offsets>
+	</model>	
+
+<!-- Parking position 19 -->
+	<model>
+	<path>Models\Transport\hatchback_silver.ac</path>
+	<offsets>
+		<x-m> 5 </x-m>
+		<y-m> 16.1 </y-m>
+		<z-m> 0 </z-m>
+		<pitch-deg> 0.00</pitch-deg>
+		<heading-deg>180.0 </heading-deg>
+	</offsets>
+	</model>	
+
+<!-- Parking position 20 -->
+	<model>
+	<path>Transport\hatchback_black.ac</path>
+	<offsets>
+		<x-m> 5 </x-m>
+		<y-m> 18.4 </y-m>
+		<z-m> 0 </z-m>
+		<pitch-deg> 0.00</pitch-deg>
+		<heading-deg>180.0 </heading-deg>
+	</offsets>
+	</model>
+	
+<!-- Parking position 21 -->
+	<model>
+	<path>Models\Transport\hatchback_red.ac</path>
+	<offsets>
+		<x-m> 5 </x-m>
+		<y-m> 20.7 </y-m>
+		<z-m> 0 </z-m>
+		<pitch-deg> 0.00</pitch-deg>
+		<heading-deg>180.0 </heading-deg>
+	</offsets>
+	</model>	
+	
+	
+<!-- Parking position 22 -->
+	<model>
+	<path>Models\Transport\van_blue_dirty.ac</path>
+	<offsets>
+		<x-m> 5.4 </x-m>
+		<y-m> 23.0 </y-m>
+		<z-m> 0 </z-m>
+		<pitch-deg> 0.00</pitch-deg>
+		<heading-deg>180.0 </heading-deg>
+	</offsets>
+	</model>
+	
+	
+	<animation>
+		<type>range</type>
+		<min-m>0</min-m>
+		<max-m>1000</max-m>
+	</animation>
+	
+</PropertyList>

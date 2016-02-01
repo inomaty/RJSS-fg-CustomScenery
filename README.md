@@ -10,7 +10,7 @@ Japanese
 
 English
 
-Airport datas are created by inomaty based on "Orhto pictures of Great East Japan Earthquake disaster area after the disaster (Taken in 2013 Sep. to 2013 Dec.)(http://http://maps.gsi.go.jp/)" & "Aerial photo, reference number CTO201311 course number C19 photo number 41 (http://mapps.gsi.go.jp/)" produced by The Geospatial Information Authority of Japan (GSI).
-We must cite the source when using the Content from GSI. So only AIRPORT TERRAIN DATAS (RJSS.btg.gz, RJSU.btg.gz, RJSV.btg.gz) are not provided under GNU GPL license. More information, please see GSI website http://www.gsi.go.jp/ENGLISH/page_e30286.html
+Airport data are created by inomaty based on "Orhto pictures of Great East Japan Earthquake disaster area after the disaster (Taken in 2013 Sep. to 2013 Dec.)(http://http://maps.gsi.go.jp/)" & "Aerial photo, reference number CTO201311 course number C19 photo number 41 (http://mapps.gsi.go.jp/)" produced by The Geospatial Information Authority of Japan (GSI).
+We must cite the source when using the Content from GSI. So only AIRPORT TERRAIN DATA (RJSS.btg.gz, RJSU.btg.gz, RJSV.btg.gz) are not provided under GNU GPL license. More information, please see GSI website http://www.gsi.go.jp/ENGLISH/page_e30286.html
 
-Except airport terrain datas such as models datas, texture datas are under GNU GPL license.
+Except airport terrain data such as model data, texture data are under GNU GPL license.

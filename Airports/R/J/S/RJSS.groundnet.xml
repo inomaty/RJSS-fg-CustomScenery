@@ -17,6 +17,10 @@
         <Parking index="12" type="ga" name="South_Ramp_For_Prop" lat="N38 8.107192" lon="E140 55.020604" heading="-67.38"  radius="10" airlineCodes="" />
         <Parking index="13" type="ga" name="CAC_Ramp" lat="N38 8.037594" lon="E140 55.226846" heading="-68.75"  radius="24" airlineCodes="" />
         <Parking index="14" type="ga" name="South_Ramp_For_Turboprop" lat="N38 8.052011" lon="E140 55.171363" heading="-68.2"  radius="24" airlineCodes="" />
+        <Parking index="50" type="ga" name="Kakuda_RW14grass" lat="N38 0.779186" lon="E140 47.973024" heading="134.09"  radius="6" pushBackRoute="" airlineCodes="" />
+        <Parking index="51" type="ga" name="Kakuda_RW32grass" lat="N38 0.414200" lon="E140 48.451110" heading="314.09"  radius="6" pushBackRoute="" airlineCodes="" />
+        <Parking index="52" type="ga" name="Kakuda_RW14hard" lat="N38 0.688572" lon="E140 48.069622" heading="135.05"  radius="6" pushBackRoute="" airlineCodes="" />
+        <Parking index="53" type="ga" name="Kakuda_RW32hard" lat="N38 0.534207" lon="E140 48.265355" heading="315.05"  radius="6" pushBackRoute="" airlineCodes="" />
  </parkingList>
  <TaxiNodes>
         <node index="56" lat="N38 8.474488" lon="E140 55.531760" isOnRunway="0" holdPointType="none"  />

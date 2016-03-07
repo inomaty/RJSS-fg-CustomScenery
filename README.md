@@ -11,7 +11,7 @@ Japanese
 
 English
 
-This date is scenery data for open-source flight-simulator [FlightGear](http://www.flightgear.org/).This is include Sendai airport, JGSDF Kasuminome airfield, Kakuda glider field area.
+This date is scenery data for open-source flight-simulator [FlightGear](http://www.flightgear.org/).This is include Sendai airport, JGSDF Kasuminome airfield,&Kakuda glider field area(South of Miyagi prefecture, Japan).
 Airport data are created by inomaty based on "Orhto pictures of Great East Japan Earthquake disaster area after the disaster (Taken in 2013 Sep. to 2013 Dec.)(<http://maps.gsi.go.jp/> Sorry only Japanese.)" & "Aerial photo, reference number CTO201311 course number C19 photo number 41 (<http://mapps.gsi.go.jp/> Sorry only Japanese too.)" produced by The Geospatial Information Authority of Japan (GSI).
  More information about GSI Website Terms of Use, please see [GSI website](http://www.gsi.go.jp/ENGLISH/page_e30286.html)
 

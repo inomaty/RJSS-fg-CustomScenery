@@ -16,9 +16,266 @@
 	</animation>
 -->
 
-	
-	<!-- light model effects visible at night -->
 	<model>
+	<name>procedural-approach-static</name>
+	<path>../../../Models/Airport/AP_Lights/Light_effects/procedural_light_approach_static.xml</path>
+	<offsets>
+		<x-m> 0.300 </x-m>
+		<y-m>-2.000 </y-m>
+		<z-m> 0.070 </z-m>
+		<pitch-deg> 0.00</pitch-deg>
+		<heading-deg>0.0 </heading-deg>
+	</offsets>
+	</model>
+	
+	<model>
+	<name>procedural-approach-static</name>
+	<path>../../../Models/Airport/AP_Lights/Light_effects/procedural_light_approach_static.xml</path>
+	<offsets>
+		<x-m> 0.300 </x-m>
+		<y-m>-1.000 </y-m>
+		<z-m> 0.070 </z-m>
+		<pitch-deg> 0.00</pitch-deg>
+		<heading-deg>0.0 </heading-deg>
+	</offsets>
+	</model>
+	
+	<model>
+	<name>procedural-approach-static</name>
+	<path>../../../Models/Airport/AP_Lights/Light_effects/procedural_light_approach_static.xml</path>
+	<offsets>
+		<x-m> 0.300 </x-m>
+		<y-m> 0.000 </y-m>
+		<z-m> 0.070 </z-m>
+		<pitch-deg> 0.00</pitch-deg>
+		<heading-deg>0.0 </heading-deg>
+	</offsets>
+	</model>
+	
+	<model>
+	<name>procedural-approach-static</name>
+	<path>../../../Models/Airport/AP_Lights/Light_effects/procedural_light_approach_static.xml</path>
+	<offsets>
+		<x-m> 0.300 </x-m>
+		<y-m> 1.000 </y-m>
+		<z-m> 0.070 </z-m>
+		<pitch-deg> 0.00</pitch-deg>
+		<heading-deg>0.0 </heading-deg>
+	</offsets>
+	</model>
+	
+	<model>
+	<name>procedural-approach-static</name>
+	<path>../../../Models/Airport/AP_Lights/Light_effects/procedural_light_approach_static.xml</path>
+	<offsets>
+		<x-m> 0.300 </x-m>
+		<y-m> 2.000 </y-m>
+		<z-m> 0.070 </z-m>
+		<pitch-deg> 0.00</pitch-deg>
+		<heading-deg>0.0 </heading-deg>
+	</offsets>
+	</model>
+
+	<!-- Right side lights -->
+	<model>
+	<name>procedural-approach-static</name>
+	<path>../../../Models/Airport/AP_Lights/Light_effects/procedural_light_approach_static.xml</path>
+	<offsets>
+		<x-m> 0.300 </x-m>
+		<y-m> 4.500 </y-m>
+		<z-m> 0.070 </z-m>
+		<pitch-deg> 0.00</pitch-deg>
+		<heading-deg>0.0 </heading-deg>
+	</offsets>
+	</model>
+
+	<model>
+	<name>procedural-approach-static</name>
+	<path>../../../Models/Airport/AP_Lights/Light_effects/procedural_light_approach_static.xml</path>
+	<offsets>
+		<x-m> 0.300 </x-m>
+		<y-m> 6.000 </y-m>
+		<z-m> 0.070 </z-m>
+		<pitch-deg> 0.00</pitch-deg>
+		<heading-deg>0.0 </heading-deg>
+	</offsets>
+	</model>
+
+	<model>
+	<name>procedural-approach-static</name>
+	<path>../../../Models/Airport/AP_Lights/Light_effects/procedural_light_approach_static.xml</path>
+	<offsets>
+		<x-m> 0.300 </x-m>
+		<y-m> 7.500 </y-m>
+		<z-m> 0.070 </z-m>
+		<pitch-deg> 0.00</pitch-deg>
+		<heading-deg>0.0 </heading-deg>
+	</offsets>
+	</model>
+
+	<model>
+	<name>procedural-approach-static</name>
+	<path>../../../Models/Airport/AP_Lights/Light_effects/procedural_light_approach_static.xml</path>
+	<offsets>
+		<x-m> 0.300 </x-m>
+		<y-m> 9.000 </y-m>
+		<z-m> 0.070 </z-m>
+		<pitch-deg> 0.00</pitch-deg>
+		<heading-deg>0.0 </heading-deg>
+	</offsets>
+	</model>
+
+	<model>
+	<name>procedural-approach-static</name>
+	<path>../../../Models/Airport/AP_Lights/Light_effects/procedural_light_approach_static.xml</path>
+	<offsets>
+		<x-m> 0.300 </x-m>
+		<y-m> 10.500 </y-m>
+		<z-m> 0.070 </z-m>
+		<pitch-deg> 0.00</pitch-deg>
+		<heading-deg>0.0 </heading-deg>
+	</offsets>
+	</model>
+
+	<model>
+	<name>procedural-approach-static</name>
+	<path>../../../Models/Airport/AP_Lights/Light_effects/procedural_light_approach_static.xml</path>
+	<offsets>
+		<x-m> 0.300 </x-m>
+		<y-m> 12.000 </y-m>
+		<z-m> 0.070 </z-m>
+		<pitch-deg> 0.00</pitch-deg>
+		<heading-deg>0.0 </heading-deg>
+	</offsets>
+	</model>
+
+	<model>
+	<name>procedural-approach-static</name>
+	<path>../../../Models/Airport/AP_Lights/Light_effects/procedural_light_approach_static.xml</path>
+	<offsets>
+		<x-m> 0.300 </x-m>
+		<y-m> 13.500 </y-m>
+		<z-m> 0.070 </z-m>
+		<pitch-deg> 0.00</pitch-deg>
+		<heading-deg>0.0 </heading-deg>
+	</offsets>
+	</model>
+
+	<model>
+	<name>procedural-approach-static</name>
+	<path>../../../Models/Airport/AP_Lights/Light_effects/procedural_light_approach_static.xml</path>
+	<offsets>
+		<x-m> 0.300 </x-m>
+		<y-m> 15.000 </y-m>
+		<z-m> 0.070 </z-m>
+		<pitch-deg> 0.00</pitch-deg>
+		<heading-deg>0.0 </heading-deg>
+	</offsets>
+	</model>
+
+	<!-- Left side lights -->
+	<model>
+	<name>procedural-approach-static</name>
+	<path>../../../Models/Airport/AP_Lights/Light_effects/procedural_light_approach_static.xml</path>
+	<offsets>
+		<x-m> 0.300 </x-m>
+		<y-m> -4.500 </y-m>
+		<z-m> 0.070 </z-m>
+		<pitch-deg> 0.00</pitch-deg>
+		<heading-deg>0.0 </heading-deg>
+	</offsets>
+	</model>
+
+	<model>
+	<name>procedural-approach-static</name>
+	<path>../../../Models/Airport/AP_Lights/Light_effects/procedural_light_approach_static.xml</path>
+	<offsets>
+		<x-m> 0.300 </x-m>
+		<y-m> -6.000 </y-m>
+		<z-m> 0.070 </z-m>
+		<pitch-deg> 0.00</pitch-deg>
+		<heading-deg>0.0 </heading-deg>
+	</offsets>
+	</model>
+
+	<model>
+	<name>procedural-approach-static</name>
+	<path>../../../Models/Airport/AP_Lights/Light_effects/procedural_light_approach_static.xml</path>
+	<offsets>
+		<x-m> 0.300 </x-m>
+		<y-m> -7.500 </y-m>
+		<z-m> 0.070 </z-m>
+		<pitch-deg> 0.00</pitch-deg>
+		<heading-deg>0.0 </heading-deg>
+	</offsets>
+	</model>
+
+	<model>
+	<name>procedural-approach-static</name>
+	<path>../../../Models/Airport/AP_Lights/Light_effects/procedural_light_approach_static.xml</path>
+	<offsets>
+		<x-m> 0.300 </x-m>
+		<y-m> -9.000 </y-m>
+		<z-m> 0.070 </z-m>
+		<pitch-deg> 0.00</pitch-deg>
+		<heading-deg>0.0 </heading-deg>
+	</offsets>
+	</model>
+
+	<model>
+	<name>procedural-approach-static</name>
+	<path>../../../Models/Airport/AP_Lights/Light_effects/procedural_light_approach_static.xml</path>
+	<offsets>
+		<x-m> 0.300 </x-m>
+		<y-m> -10.500 </y-m>
+		<z-m> 0.070 </z-m>
+		<pitch-deg> 0.00</pitch-deg>
+		<heading-deg>0.0 </heading-deg>
+	</offsets>
+	</model>
+
+	<model>
+	<name>procedural-approach-static</name>
+	<path>../../../Models/Airport/AP_Lights/Light_effects/procedural_light_approach_static.xml</path>
+	<offsets>
+		<x-m> 0.300 </x-m>
+		<y-m> -12.000 </y-m>
+		<z-m> 0.070 </z-m>
+		<pitch-deg> 0.00</pitch-deg>
+		<heading-deg>0.0 </heading-deg>
+	</offsets>
+	</model>
+
+	<model>
+	<name>procedural-approach-static</name>
+	<path>../../../Models/Airport/AP_Lights/Light_effects/procedural_light_approach_static.xml</path>
+	<offsets>
+		<x-m> 0.300 </x-m>
+		<y-m> -13.500 </y-m>
+		<z-m> 0.070 </z-m>
+		<pitch-deg> 0.00</pitch-deg>
+		<heading-deg>0.0 </heading-deg>
+	</offsets>
+	</model>
+
+	<model>
+	<name>procedural-approach-static</name>
+	<path>../../../Models/Airport/AP_Lights/Light_effects/procedural_light_approach_static.xml</path>
+	<offsets>
+		<x-m> 0.300 </x-m>
+		<y-m> -15.000 </y-m>
+		<z-m> 0.070 </z-m>
+		<pitch-deg> 0.00</pitch-deg>
+		<heading-deg>0.0 </heading-deg>
+	</offsets>
+	</model>
+
+	
+    <!-- ================================================================== -->
+    <!-- Basic And Rembrandt Lighting                                       -->
+    <!-- ================================================================== -->
+	<model>
+	<name>approach-static-light</name>
 	<path>../../../Models/Airport/AP_Lights/Light_effects/approach_light2.ac</path>
 	<offsets>
 		<x-m> 0.150 </x-m>
@@ -30,6 +287,7 @@
 	</model>
 	
 	<model>
+	<name>approach-static-light</name>
 	<path>../../../Models/Airport/AP_Lights/Light_effects/approach_light2.ac</path>
 	<offsets>
 		<x-m> 0.150 </x-m>
@@ -41,6 +299,7 @@
 	</model>
 	
 	<model>
+	<name>approach-static-light</name>
 	<path>../../../Models/Airport/AP_Lights/Light_effects/approach_light2.ac</path>
 	<offsets>
 		<x-m> 0.150 </x-m>
@@ -52,6 +311,7 @@
 	</model>
 	
 	<model>
+	<name>approach-static-light</name>
 	<path>../../../Models/Airport/AP_Lights/Light_effects/approach_light2.ac</path>
 	<offsets>
 		<x-m> 0.150 </x-m>
@@ -63,6 +323,7 @@
 	</model>
 	
 	<model>
+	<name>approach-static-light</name>
 	<path>../../../Models/Airport/AP_Lights/Light_effects/approach_light2.ac</path>
 	<offsets>
 		<x-m> 0.150 </x-m>
@@ -75,6 +336,7 @@
 
 	<!-- Right side lights -->
 	<model>
+	<name>approach-static-light</name>
 	<path>../../../Models/Airport/AP_Lights/Light_effects/approach_light2.ac</path>
 	<offsets>
 		<x-m> 0.150 </x-m>
@@ -86,6 +348,7 @@
 	</model>
 
 	<model>
+	<name>approach-static-light</name>
 	<path>../../../Models/Airport/AP_Lights/Light_effects/approach_light2.ac</path>
 	<offsets>
 		<x-m> 0.150 </x-m>
@@ -97,6 +360,7 @@
 	</model>
 
 	<model>
+	<name>approach-static-light</name>
 	<path>../../../Models/Airport/AP_Lights/Light_effects/approach_light2.ac</path>
 	<offsets>
 		<x-m> 0.150 </x-m>
@@ -108,6 +372,7 @@
 	</model>
 
 	<model>
+	<name>approach-static-light</name>
 	<path>../../../Models/Airport/AP_Lights/Light_effects/approach_light2.ac</path>
 	<offsets>
 		<x-m> 0.150 </x-m>
@@ -119,6 +384,7 @@
 	</model>
 
 	<model>
+	<name>approach-static-light</name>
 	<path>../../../Models/Airport/AP_Lights/Light_effects/approach_light2.ac</path>
 	<offsets>
 		<x-m> 0.150 </x-m>
@@ -130,6 +396,7 @@
 	</model>
 
 	<model>
+	<name>approach-static-light</name>
 	<path>../../../Models/Airport/AP_Lights/Light_effects/approach_light2.ac</path>
 	<offsets>
 		<x-m> 0.150 </x-m>
@@ -141,6 +408,7 @@
 	</model>
 
 	<model>
+	<name>approach-static-light</name>
 	<path>../../../Models/Airport/AP_Lights/Light_effects/approach_light2.ac</path>
 	<offsets>
 		<x-m> 0.150 </x-m>
@@ -152,6 +420,7 @@
 	</model>
 
 	<model>
+	<name>approach-static-light</name>
 	<path>../../../Models/Airport/AP_Lights/Light_effects/approach_light2.ac</path>
 	<offsets>
 		<x-m> 0.150 </x-m>
@@ -164,6 +433,7 @@
 
 	<!-- Left side lights -->
 	<model>
+	<name>approach-static-light</name>
 	<path>../../../Models/Airport/AP_Lights/Light_effects/approach_light2.ac</path>
 	<offsets>
 		<x-m> 0.150 </x-m>
@@ -175,6 +445,7 @@
 	</model>
 
 	<model>
+	<name>approach-static-light</name>
 	<path>../../../Models/Airport/AP_Lights/Light_effects/approach_light2.ac</path>
 	<offsets>
 		<x-m> 0.150 </x-m>
@@ -186,6 +457,7 @@
 	</model>
 
 	<model>
+	<name>approach-static-light</name>
 	<path>../../../Models/Airport/AP_Lights/Light_effects/approach_light2.ac</path>
 	<offsets>
 		<x-m> 0.150 </x-m>
@@ -197,6 +469,7 @@
 	</model>
 
 	<model>
+	<name>approach-static-light</name>
 	<path>../../../Models/Airport/AP_Lights/Light_effects/approach_light2.ac</path>
 	<offsets>
 		<x-m> 0.150 </x-m>
@@ -208,6 +481,7 @@
 	</model>
 
 	<model>
+	<name>approach-static-light</name>
 	<path>../../../Models/Airport/AP_Lights/Light_effects/approach_light2.ac</path>
 	<offsets>
 		<x-m> 0.150 </x-m>
@@ -219,6 +493,7 @@
 	</model>
 
 	<model>
+	<name>approach-static-light</name>
 	<path>../../../Models/Airport/AP_Lights/Light_effects/approach_light2.ac</path>
 	<offsets>
 		<x-m> 0.150 </x-m>
@@ -230,6 +505,7 @@
 	</model>
 
 	<model>
+	<name>approach-static-light</name>
 	<path>../../../Models/Airport/AP_Lights/Light_effects/approach_light2.ac</path>
 	<offsets>
 		<x-m> 0.150 </x-m>
@@ -241,6 +517,7 @@
 	</model>
 
 	<model>
+	<name>approach-static-light</name>
 	<path>../../../Models/Airport/AP_Lights/Light_effects/approach_light2.ac</path>
 	<offsets>
 		<x-m> 0.150 </x-m>
@@ -263,93 +540,57 @@
         <alpha-factor>0.01</alpha-factor>
     </animation>
 	
-	<animation>
-		<type>select</type>
-		<object-name>WhiteLight6000</object-name>
-			<condition>
-				<or>
-					<greater-than>
-						<property>/sim/time/sun-angle-rad</property>
-						<value>1.4742</value>
-					</greater-than>
-					<less-than>
-						<property>environment/visibility-m</property>
-						<value>4500.00</value>
-					</less-than>
-				</or>
-			</condition>
-	</animation>
+    <animation>
+        <type>select</type>
+	<object-name>procedural-approach-static</object-name>
+        <nopreview/>
+        <condition>
+	    <and>
+                <property>/sim/rendering/shaders/skydome</property>
+
+			<or>
+				<greater-than>
+					<property>/sim/time/sun-angle-rad</property>
+					<value>1.4742</value>
+				</greater-than>
+				<less-than>
+					<property>environment/visibility-m</property>
+					<value>4500.00</value>
+				</less-than>
+			</or>
+            
+            </and>
+
+        </condition>
+    </animation>
+
+<animation>
+	<type>select</type>
+	<object-name>approach-static-light</object-name>
+	<nopreview/>
+		<condition>
+	        <not>
+				<property>/sim/rendering/shaders/skydome</property>
+            </not>
+			<or>
+				<greater-than>
+					<property>/sim/time/sun-angle-rad</property>
+					<value>1.4742</value>
+				</greater-than>
+				<less-than>
+					<property>environment/visibility-m</property>
+					<value>4500.00</value>
+				</less-than>
+			</or>
+
+	</condition>
+</animation>
 	
+
 	<animation>
-		<type>dist-scale</type>
-		<object-name>WhiteLight6000</object-name>
-		<interpolation>
-			<entry>
-				<ind>0</ind>
-				<dep>0.1</dep>
-			</entry>
-			<entry>
-				<ind>300</ind>
-				<dep>0.5</dep>
-			</entry>
-			<entry>
-				<ind>600</ind>
-				<dep>0.8</dep>
-			</entry>
-			<entry>
-				<ind>1500</ind>
-				<dep>1</dep>
-			</entry>
-			<entry>
-				<ind>2000</ind>
-				<dep>0.5</dep>
-			</entry>
-			<entry>
-				<ind>3000</ind>
-				<dep>1</dep>
-			</entry>
-			<entry>
-				<ind>6000</ind>
-				<dep>2</dep>
-			</entry>
-			<entry>
-				<ind>20000</ind>
-				<dep>4</dep>
-			</entry>
-		</interpolation>
-	</animation>
-
-<!--	<animation>
-		<type>dist-scale</type>
-		<object-name>WhiteLight6000</object-name>
-		<interpolation>
-			<entry>
-				<ind>0</ind>
-				<dep>0.025</dep>
-			</entry>
-			<entry>
-				<ind>300</ind>
-				<dep>0.1</dep>
-			</entry>
-			<entry>
-				<ind>1500</ind>
-				<dep>0.2</dep>
-			</entry>
-			<entry>
-				<ind>6000</ind>
-				<dep>0.7</dep>
-			</entry>
-			<entry>
-				<ind>20000</ind>
-				<dep>1.3</dep>
-			</entry>
-		</interpolation>
-	</animation> -->
-
-<!--	<animation>
 		<type>range</type>
 		<min-m>0</min-m>
 		<max-m>15000</max-m>
-	</animation> -->
+	</animation>
 	
 </PropertyList>

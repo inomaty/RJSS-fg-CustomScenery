@@ -4,7 +4,7 @@ MATERIAL "Antena" rgb 1.0000 0.0102 0.0029  amb 1.0000 0.0102 0.0029  emis 0.000
 MATERIAL "Material.001" rgb 0.8000 0.8000 0.8000  amb 1.0000 1.0000 1.0000  emis 0.0000 0.0000 0.0000  spec 0.2000 0.2000 0.2000  shi 12 trans 0.0000
 MATERIAL "Material" rgb 0.8000 0.8000 0.8000  amb 1.0000 1.0000 1.0000  emis 0.0000 0.0000 0.0000  spec 0.2000 0.2000 0.2000  shi 12 trans 0.6000
 OBJECT world
-name "Blender_export__SDE_VOR.ac"
+name "Blender_exporter_v2.10__SDE_VOR.ac"
 kids 5
 OBJECT poly
 name "Cone"
@@ -8228,7 +8228,7 @@ name "Cube"
 data 8
 Cube.001
 crease 35.0
-texture "SDE_VOR.png"
+texture "SDE_VOR.dds"
 texrep 1 1
 numvert 209
 3.05557 -1.00000 14.28130
@@ -9527,7 +9527,7 @@ name "Cube.003"
 data 8
 Cube.000
 crease 35.0
-texture "SDE_VOR.png"
+texture "SDE_VOR.dds"
 texrep 1 1
 numvert 108
 16.53000 0.00000 2.00000

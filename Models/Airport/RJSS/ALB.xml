@@ -11,7 +11,7 @@
 	{
 		var wind_speed = getprop("/environment/wind-speed-kt");
 		var wind_from = wind_speed ? getprop("/environment/wind-from-heading-deg") : 270;
-		var Angle = wind_from - 82.56;		#RJSS RW09 True heading = 82.56 degree
+		var Angle = (wind_from - 82.56) * D2R;		#RJSS RW09 True heading = 82.56 degree
 		var Tailwind_component = wind_speed * math.cos(Angle);
 		var Crosswind_component = math.abs(wind_speed * math.sin(Angle));
 	
